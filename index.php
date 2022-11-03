@@ -20,7 +20,6 @@ $truck1->setCurrentSpeed(80);
 echo "<br>" . $truck1->forward();
 echo "<br>" . $truck1->brake();
 
-
 var_dump($truck1);
 
 
